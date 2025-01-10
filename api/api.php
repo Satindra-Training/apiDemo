@@ -1,7 +1,8 @@
 <?php
      $usersList = [
       0=>['uid'=>1001,"name"=>"John","email"=>"john@gmail.com"],
-      1=>['uid'=>1002,"name"=>"Smith","email"=>"smith@gmail.com"]
+      1=>['uid'=>1002,"name"=>"Smith","email"=>"smith@gmail.com"],
+      2=>['uid'=>1003,"name"=>"Koushik","email"=>"koushik@gmail.com"]
 
      ];
      //cors free 
